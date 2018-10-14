@@ -1,4 +1,4 @@
-   /*Title : Creating Student Database Using Singly linked list */
+   /*Title : Student DB Mgmt System By Abhishek Created Using Singly Linked List */
 
 
 #include<stdio.h>
